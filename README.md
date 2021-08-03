@@ -5,6 +5,8 @@
 <div align=center>
   
 ###🔧Tech Stack🔧
+  
+  
   <img src="https://img.shields.io/badge/-Python-3766AB?style=round-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Java-007396?style=round-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> 
@@ -23,6 +25,8 @@
 
 
 </div>
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 <!--
