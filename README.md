@@ -29,7 +29,7 @@ Instagram : [jurl0103](https://www.instagram.com/jurl0103)
   
 ### Commit Combo!
   
-[![commitcombo](http://commitcombo.com/get?user={jurlring}&theme={DeepOcean-mini})](https://github.com/devxb/CommitCombo)
+[![commitcombo](http://commitcombo.com/get?user={jurlring}&theme={Cloud-mini-v2})](https://github.com/devxb/CommitCombo)
 
 
 
