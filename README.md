@@ -29,9 +29,7 @@ Velog : https://velog.io/@jurlring
   
 
   
-### Commit Combo!
-  
-[![commitcombo](http://commitcombo.com/get?user={jurlring}&theme={Cloud-mini-v2})](https://github.com/devxb/CommitCombo)
+[![readmeplants](http://readmeplants.com/get?name=jurlring&planet=earth&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants)
 
 
 
