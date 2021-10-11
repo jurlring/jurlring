@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JurYoon&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JuriYoon&fontSize=90&animation=scaleIn)
 
 
 
