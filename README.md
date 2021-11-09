@@ -29,10 +29,6 @@ Velog : https://velog.io/@jurlring
   
 
   
-  
-[![readmeplants](http://readmeplants.com/get?name=jurlring&planet=earth&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants)
-
-
 
 </div>
 
